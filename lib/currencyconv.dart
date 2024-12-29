@@ -114,11 +114,11 @@ class _ConvpageState extends State<Convpage> {
                     controller: amtc,
                     keyboardType: TextInputType.number,
                     style: const TextStyle(
-                      color: Colors.white,
+                      color: Colors.black,
                     ),
                     decoration: InputDecoration(
                       labelText: "Amount",
-                      fillColor: Colors.black,
+                      fillColor: Colors.white,
                       filled: true,
                       border: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(20),
