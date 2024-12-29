@@ -118,7 +118,7 @@ class _ConvpageState extends State<Convpage> {
                     ),
                     decoration: InputDecoration(
                       labelText: "Amount",
-                      fillColor: Colors.white,
+                      fillColor: Colors.black,
                       filled: true,
                       border: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(20),
